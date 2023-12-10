@@ -24,7 +24,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class Exercise31_02Client extends Application {
+public class BMI_Client extends Application {
   // IO streams
   DataOutputStream toServer = null;
   DataInputStream fromServer = null;

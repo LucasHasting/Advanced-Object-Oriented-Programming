@@ -17,7 +17,7 @@ import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TextArea;
 import javafx.stage.Stage;
 
-public class Exercise31_02Server extends Application {
+public class BMI_Server extends Application {
   @Override // Override the start method in the Application class
   public void start(Stage primaryStage) {
     // Text area for displaying contents
